@@ -1,6 +1,6 @@
-# reproducer bug 7308
+# reproducer bug 7332
 
-this repo reproduces the 2nd bug mentioned in https://github.com/phpstan/phpstan/issues/7308#issuecomment-1139330531
+this repo reproduces the ~~2nd bug mentioned in https://github.com/phpstan/phpstan/issues/7308#issuecomment-1139330531~~ [bug 7332](https://github.com/phpstan/phpstan/issues/7332#issue-1251098982)
 
 # how to reproduce
 
